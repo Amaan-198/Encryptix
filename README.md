@@ -1,1 +1,1 @@
-Encryptix Internship codes my by me using python.
+Encryptix Internship codes made by me using python.
